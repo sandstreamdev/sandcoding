@@ -45,6 +45,13 @@ Make sure this field is also present and filled.
 
 Make sure that it points to `dist` folder so that only necessary files are added to package.
 
+#### scripts
+
+Add following script to prevent publishing empty package.
+```json
+"prepare": "npm run build"
+```
+
 ### template
 
 ```json
@@ -61,16 +68,25 @@ Make sure that it points to `dist` folder so that only necessary files are added
   "type": "git",
   "url": "[url_to_github_package_repository]"
 },
-"files": ["dist"]
+"files": ["dist"],
+"scripts": {
+  "prepare": "npm run build"
+}
 ```
 
 ## Publishing to npm
 
+:warning: Remeber to build your module before publishing
 :warning: Remeber to [test](./npm-module-testing) if module works correctly before publishing.
 
 * `npm login` - use your account that is linked to `sandstreamdev` organization
 * `npm publish --access public` - by default scoped packages are published as [private](https://docs.npmjs.com/creating-and-publishing-scoped-public-packages#publishing-scoped-public-packages). Use this command to publish with `public` visibility.
 
-## Using `np` package for publishing
+## Using `np` tool for publishing
 
 To simplify process and add additional checks before publishing use ["A better `npm publish`"](https://github.com/sindresorhus/np)
+:warning: This tool does not build your module and does not warn about empty module publishing. Make sure you run build script before publishing or add [mentioned script]()
+
+## :warning: Always test published module
+
+After module is published to NPM test if it works by installing package in some new test app.
