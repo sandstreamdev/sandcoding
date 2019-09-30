@@ -24,7 +24,7 @@ Set author `name` to `Sandstream Development` and the `url` field - `https://www
 
 #### keywords
 
-Add keywords - think about what user could type in search field to find your package. This field is used by `npm search`. These could be same keywords that were used during Github repository configuration in `topics`.
+Add keywords - think about what user could type in search field to find your package. This field is used by `npm search`. These could be same keywords that were used during GitHub repository configuration in `topics`.
 
 #### license
 

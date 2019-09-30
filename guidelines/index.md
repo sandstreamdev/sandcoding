@@ -8,7 +8,7 @@
 
 - [Code coverage](./code-coverage.md)
 
-- [Setup Github page](./github-pages.md)
+- [Setup GitHub page](./github-pages.md)
 
 - [Testing NPM module](./npm-module-testing.md)
 

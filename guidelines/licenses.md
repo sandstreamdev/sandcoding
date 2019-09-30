@@ -6,4 +6,4 @@ If `year` is required use current year value.
 
 If `organization` is required use following value: `Sandstream Development Sp. z o. o.`
 
-You can also use one of [github templates](https://github.com/licenses/license-templates/blob/master/templates/), fill required fields and add to repository under `LICENSE` filename in root of the project.
+You can also use one of [GitHub templates](https://github.com/licenses/license-templates/blob/master/templates/), fill required fields and add to repository under `LICENSE` filename in root of the project.

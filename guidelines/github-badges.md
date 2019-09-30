@@ -15,10 +15,10 @@
 
 ## For NPM modules
 
-Should we duplicate github info that is seen above on page?
+Should we duplicate GitHub info that is seen above on page?
 
-Which page is more important Github or NPM?
+Which page is more important GitHub or NPM?
 
-Some information (badges) can be taken from NPM to Github readme and some Github information can be added from Github.
+Some information (badges) can be taken from NPM to GitHub readme and some GitHub information can be added from GitHub.
 
-The problem is duplicated information that can be seen on Github and NPM - to be clarified.
+The problem is duplicated information that can be seen on GitHub and NPM - to be clarified.

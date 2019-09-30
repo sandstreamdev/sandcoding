@@ -2,7 +2,7 @@
 
 ## Testing app in repository
 
-You can use your testing app and import sources (of future module) from parent folder. Example of such case can be found in [react-swipeable-list repository](https://github.com/sandstreamdev/react-swipeable-list).
+You can use your testing app and import sources (of a future module) from a local drive. An example of such a case can be found in [react-swipeable-list repository](https://github.com/sandstreamdev/react-swipeable-list).
 
 :warning: Note that this speeds up development but you should test with one of below ways before publishing.
 
@@ -19,8 +19,8 @@ npm link [your_package_name]           # link-install the package
 
 Now [your_test_app] will 'see' the module and you can simply `import` it in your source code.
 
-## Install from github
+## Install from GitHub
 
-If you pushed some version of you package to Github you can install it from there.
+If you pushed some version of you package to GitHub you can install it from there.
 
 `npm i sandstreamdev/[you_package_name]`
