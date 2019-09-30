@@ -1,7 +1,7 @@
 # GitHub repository checklist
 
 - [ ] Description and website link (if applicable, may be link to example page)
-- [ ] Topics relevant to repository - use `Manage topics` option
+- [ ] [Topics](https://help.github.com/en/articles/classifying-your-repository-with-topics) relevant to repository - use `Manage topics` option
 - [ ] License [setup]('../guidelines/licenses.md)
 - [ ] [Contributors]('../guidelines/contributors.md)
 - [ ] [Badges]('../guidelines/github-badges.md)
