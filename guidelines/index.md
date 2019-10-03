@@ -2,10 +2,6 @@
 
 - [Badges](./github-badges.md)
 
-- [Security](./security.md)
-
-- [Code quality](./code-quality.md)
-
 - [Code coverage](./code-coverage.md)
 
 - [Setup GitHub page](./github-pages.md)

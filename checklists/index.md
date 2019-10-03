@@ -1,3 +1,3 @@
 # Checklists
 
-- [GitHub project setup]('./github-checklist.md)
+- [GitHub project setup](./github-checklist.md)
