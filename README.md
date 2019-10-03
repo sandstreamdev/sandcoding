@@ -1,4 +1,4 @@
-# sand-coding
+# Sandcoding
 
 ## [Guidelines](./guidelines/index.md)
 
