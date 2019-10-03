@@ -12,4 +12,4 @@
 
 - [Contributors](./contributors.md)
 
-- [License](./license.md)
+- [License](./licenses.md)
