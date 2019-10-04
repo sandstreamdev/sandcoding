@@ -76,7 +76,7 @@ Add following script to prevent publishing empty package.
 
 ## Publishing to npm
 
-:warning: Remeber to build your module before publishing
+:warning: Remeber to build your module before publishing!
 :warning: Remeber to [test](./npm-module-testing) if module works correctly before publishing.
 
 * `npm login` - use your account that is linked to `sandstreamdev` organization
@@ -85,7 +85,7 @@ Add following script to prevent publishing empty package.
 ## Using `np` tool for publishing
 
 To simplify process and add additional checks before publishing use ["A better `npm publish`"](https://github.com/sindresorhus/np)
-:warning: This tool does not build your module and does not warn about empty module publishing. Make sure you run build script before publishing or add [mentioned script]()
+:warning: This tool does not build your module and does not warn about empty module publishing. Make sure that build is ran before publishing.
 
 ## :warning: Always test published module
 
