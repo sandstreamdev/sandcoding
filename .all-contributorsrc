@@ -15,6 +15,16 @@
         "financial",
         "ideas"
       ]
+    },
+    {
+      "login": "marekrozmus",
+      "name": "Marek Rozmus",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/26272040?v=4",
+      "profile": "https://github.com/marekrozmus",
+      "contributions": [
+        "doc",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
