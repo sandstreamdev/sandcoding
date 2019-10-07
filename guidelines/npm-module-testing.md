@@ -21,6 +21,6 @@ Now [your_test_app] will 'see' the module and you can simply `import` it in your
 
 ## Install from GitHub
 
-If you pushed some version of you package to GitHub you can install it from there.
+If you would like to test latest package code pushed to the Github, you can install it from there.
 
 `npm i sandstreamdev/[you_package_name]`
