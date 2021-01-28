@@ -13,3 +13,5 @@
 - [Contributors](./contributors.md)
 
 - [License](./licenses.md)
+
+- [How do we work](./how-do-we-work/index.md)
